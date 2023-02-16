@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Stage2'){
             steps {
-                echo "magic day!"
+                echo "magic day"
             }
         }
     }
